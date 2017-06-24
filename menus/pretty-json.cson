@@ -1,0 +1,28 @@
+'menu': [
+  'label': 'Packages'
+  'submenu': [
+    'label': 'SB Pretty JSON'
+    'submenu': [
+      {
+        'label': 'Prettify'
+        'command': 'starbound-pretty-json:prettify',
+      },
+      {
+        'label': 'Minify'
+        'command': 'starbound-pretty-json:minify'
+      },
+      {
+        'label': 'Sort and Prettify'
+        'command': 'starbound-pretty-json:sort-and-prettify'
+      },
+      {
+        'label': 'JSONify JavaScript Object Literal and Prettify'
+        'command': 'starbound-pretty-json:jsonify-literal-and-prettify'
+      },
+      {
+        'label': 'JSONify JavaScript Object Literal and Sort and Prettify'
+        'command': 'starbound-pretty-json:jsonify-literal-and-sort-and-prettify'
+      }
+    ]
+  ]
+]
