@@ -1,7 +1,7 @@
 {
   "name": "starbound-pretty-json",
   "main": "./index.coffee",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "helps with json formatting and minifying, modified for starbound modding.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-pretty-json",
